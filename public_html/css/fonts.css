@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+/* =======================
+	fonts
+======================= */
+
+@font-face {
+	font-family: 'Pretendard Regular';
+	font-weight: 400;
+	font-display: swap;
+	src: url('./fonts/Pretendard-Regular.woff2') format('woff2'), 
+	url('./fonts/Pretendard-Regular.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Pretendard Bold';
+	font-weight: 700;
+	font-display: swap;
+	src: url('./fonts/Pretendard-Bold.woff2') format('woff2'), 
+	url('./fonts/Pretendard-Bold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Pretendard ExtraBold';
+	font-weight: 800;
+	font-display: swap;
+	src: url('./fonts/Pretendard-ExtraBold.woff2') format('woff2'),
+	url('./fonts/Pretendard-ExtraBold.woff') format('woff');
+}
+
+
+/* @font-face {
+	font-family: 'NotoKr';
+	font-style: normal;
+	font-weight: 300;
+	src: local('Noto Sans Ligth'), local('NotoSans-Light'), url(./fonts/noto/NotoSans-Light.eot);
+	src: url(./fonts/noto/NotoSans-Ligth.eot?#iefix) format('embedded-opentype');
+}
+@font-face {
+	font-family: 'NotoKr';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Noto Sans Regular'), local('NotoSans-Regular'), url(./fonts/noto/NotoSans-Regular.eot);
+	src: url(./fonts/noto/NotoSans-Regular.eot?#iefix) format('embedded-opentype'),
+	url(./fonts/noto/NotoSans-Regular.woff2) format('woff2'),
+	url(./fonts/noto/NotoSans-Regular.woff) format('woff');
+}
+@font-face {
+	font-family: 'NotoKr';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Noto Sans Medium'), local('NotoSans-Medium'), url(./fonts/noto/NotoSans-Medium.eot);
+	src: url(./fonts/noto/NotoSans-Medium.eot?#iefix) format('embedded-opentype'),
+	url(./fonts/noto/NotoSans-Medium.woff2) format('woff2'),
+	url(./fonts/noto/NotoSans-Medium.woff) format('woff');
+}
+@font-face {
+	font-family: 'NotoKr';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(./fonts/noto/NotoSans-Bold.eot);
+	src: url(./fonts/noto/NotoSans-Bold.eot?#iefix) format('embedded-opentype'),
+	url(./fonts/noto/NotoSans-Bold.woff2) format('woff2'),
+	url(./fonts/noto/NotoSans-Bold.woff) format('woff');
+} */
